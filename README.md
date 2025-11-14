@@ -1,7 +1,7 @@
-# Project X 
-Group members: Y, Z
+# Session 3 — Applied Natural Language Processing
+Group members: Jakhongir Erkinov, Joranas Cigas, Daved Tawdros, Chriswin Baiju
 
-This repository contains the materials for **Project X**.  
+This repository contains the materials for **Session 3 — Applied Natural Language Processing**.  
 - Presentation Slides: see [`slides/`](./slides/) folder  
 - Notebooks: see [`notebooks/`](./notebooks/) folder
 - Data: when you access correct data, place it in [`data/`](./data/) folder

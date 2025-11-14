@@ -1,11 +1,13 @@
 # Session 3 — Applied Natural Language Processing
 Group members: Jakhongir Erkinov, Joranas Cigas, Daved Tawdros, Chriswin Baiju
 
-This repository contains the materials for **Session 3 — Applied Natural Language Processing**.  
-- Presentation Slides: see [`slides/`](./slides/) folder  
-- Notebooks: see [`notebooks/`](./notebooks/) folder
-- Data: when you access correct data, place it in [`data/`](./data/) folder
-- Results: the folder [`results/`](./result/) contains our figures and tables.
+This repository contains the materials for Session 3 — Applied Natural Language Processing.
+
+- Presentation Slides: see the [`slides/`](slides/) folder
+- Notebooks: see the [`notebooks/`](notebooks/) folder
+- Data: when you access correct data, place it in the [`data/`](data/) folder
+- Results: the [`results/`](results/) folder contains our figures and tables.
+
   
 ---
 - Read more about this project on Medium: <Medium_Article_link>
